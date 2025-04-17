@@ -1,12 +1,42 @@
-# React + Vite
+# 🌐 3D Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An immersive 3D developer portfolio built with **React**, **Three.js**, **Vite**, and **Tailwind CSS** — showcasing projects, skills, and contact info in a unique and interactive style.
 
-Currently, two official plugins are available:
+## 🚀 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚛️ React – Component-based UI
+- 🧵 Tailwind CSS – Utility-first styling
+- 🧠 Three.js – 3D rendering and animations
+- ⚡ Vite – Fast dev server and build tool
 
-## Expanding the ESLint configuration
+  ## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎨 **Interactive 3D Hero Section** — Built with Three.js and React Three Fiber for a stunning first impression.
+- ⚛️ **React + Vite** — Fast, modern frontend stack for optimal performance and DX.
+- 🎮 **Three.js Integration** — High-quality 3D character animation with model switching and camera controls.
+- 💅 **Tailwind CSS** — Utility-first CSS framework for rapid, responsive UI development.
+- 🎯 **Responsive Design** — Seamlessly works across all screen sizes and devices.
+- 🌗 **Dark Mode Support** — Clean dark UI toggle for modern aesthetics.
+- 🧭 **Smooth Navigation** — Scroll-based section highlights and intuitive UX.
+- 🔧 **Reusable Components** — Modular React components for easy customization.
+
+
+## 🌐 Live Demo
+
+Check out the live version of the portfolio here:  
+👉 [Link](https://3d-portfolio-6mkca1wfd-shashi-kumars-projects-63519ea8.vercel.app)
+
+## 🙌 Thanks for Visiting!
+
+If you liked this 3D portfolio project, feel free to ⭐ the repo and share your feedback.  
+Contributions, suggestions, and pull requests are always welcome!
+
+---
+
+Made with ❤️ by [Shashi](https://github.com/shashi-bot)
+
+
+
+
+
+
