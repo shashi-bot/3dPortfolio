@@ -19,7 +19,7 @@ const About = () => {
         <div className='grid-container'>
         <img src="/assets/grid1.png" alt="grid-1" className='w-full sm:h-[276px] h-fit object-contain'/>
         <div>
-            <p className='grid-headtext'>Hi, I'm Shashi</p>
+            <p className='grid-headtext'>Hi, I'm Shashi Ranjan Kumar</p>
             <p className='grid-subtext'> A passionate full-stack developer who blends creativity with code to craft intuitive digital experiences.
             I build fast, scalable, and user-focused web apps. I love solving real-world problems through tech and constantly strive to push boundaries in both design and functionality
              </p>
